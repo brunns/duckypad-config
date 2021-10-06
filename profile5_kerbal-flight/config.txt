@@ -1,0 +1,25 @@
+z1 sas
+z2 warp +
+z3 warp -
+z4 roll l
+z5 pitch -
+z6 roll r
+z7 yaw l
+z8 pitch +
+z9 yaw r
+z10 throt m
+z11 map
+z12 throt +
+z13 throt 0
+z14 stage
+z15 throt -
+BG_COLOR 0 64 180
+SWCOLOR_5 0 249 0
+SWCOLOR_7 0 249 0
+SWCOLOR_8 0 249 0
+SWCOLOR_9 0 249 0
+SWCOLOR_10 255 146 0
+SWCOLOR_12 255 146 0
+SWCOLOR_13 255 146 0
+SWCOLOR_14 255 38 0
+SWCOLOR_15 255 146 0

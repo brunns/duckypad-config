@@ -1,0 +1,16 @@
+z1 usage
+z2 declair
+z3 super
+z5 impl
+z6 p err
+z9 n err
+z10 class
+z11 file
+z12 symbol
+z13 recent
+z14 srch al
+z15 struct
+BG_COLOR 4 50 255
+SWCOLOR_6 255 146 0
+SWCOLOR_9 255 146 0
+SWCOLOR_14 255 38 0

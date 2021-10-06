@@ -1,0 +1,21 @@
+z1 run any
+z4 run...
+z5 debug..
+z6 configs
+z7 run
+z8 debug
+z9 breakpt
+z10 over
+z11 into
+z12 into my
+z13 to curs
+z14 out
+z15 eval
+BG_COLOR 4 50 255
+SWCOLOR_1 255 38 0
+SWCOLOR_4 255 38 0
+SWCOLOR_5 255 146 0
+SWCOLOR_6 0 249 0
+SWCOLOR_7 255 38 0
+SWCOLOR_8 255 146 0
+SWCOLOR_15 0 252 255

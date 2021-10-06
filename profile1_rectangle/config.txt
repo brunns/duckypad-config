@@ -1,0 +1,18 @@
+z1 t-left
+z2 max
+z3 t-right
+z4 left
+z5 almost
+z6 right
+z7 b-left
+z8 larger
+z9 t-left
+z11 smaller
+z13 prev
+z15 next
+BG_COLOR 4 50 255
+SWCOLOR_2 255 146 0
+SWCOLOR_8 255 146 0
+SWCOLOR_11 255 146 0
+SWCOLOR_13 0 249 0
+SWCOLOR_15 0 249 0

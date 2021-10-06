@@ -1,0 +1,21 @@
+z1 this
+z2 narrow
+z3 widen
+z4 rename
+z5 move
+z6 move-up
+z7 sig
+z8 gen
+z9 move-dn
+z10 var
+z11 const
+z12 field
+z13 param
+z14 method
+z15 inline
+BG_COLOR 255 64 255
+SWCOLOR_1 255 38 0
+SWCOLOR_2 255 146 0
+SWCOLOR_3 255 146 0
+SWCOLOR_6 0 249 0
+SWCOLOR_9 0 249 0
